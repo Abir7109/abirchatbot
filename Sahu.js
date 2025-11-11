@@ -17,6 +17,9 @@ app.get('/', function (req, res) {
     res.sendFile(path.join(__dirname, '/index.html'));
 });
 
+// Simple health endpoint for Render health checks
+app.get('/healthz', (req, res) => res.status(200).send('ok'));
+
 // Start the server and add error handling
 app.listen(port, () => {
     logger(`Server is running on port ${port}...`, "[ Starting ]");
