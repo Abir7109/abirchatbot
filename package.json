@@ -14,25 +14,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git"
+    "url": "https://github.com/abirspof-maker/abirschatbot-.git"
   },
   "keywords": [
     "bot",
     "facebook",
-    "shahadatproject",
     "messenger",
     "javascript",
-    "shadat",
-    "ullash",
-    "shahadat sahu",
-    "shahadat chat bot"
+    "abir",
+    "abir chat bot"
   ],
   "author": "Abir",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
+    "url": "https://github.com/abirspof-maker/abirschatbot-/issues"
   },
-  "homepage": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues",
+  "homepage": "https://github.com/abirspof-maker/abirschatbot-",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",

@@ -16,11 +16,11 @@ Assalamualaikum Everyone!
 
 _____
 
-[![License](https://img.shields.io/github/license/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues)
-[![GitHub forks](https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/network)
-[![GitHub stars](https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/commits)
+[![License](https://img.shields.io/github/license/abirspof-maker/abirschatbot-)](https://github.com/abirspof-maker/abirschatbot-/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/abirspof-maker/abirschatbot-)](https://github.com/abirspof-maker/abirschatbot-/issues)
+[![GitHub forks](https://img.shields.io/github/forks/abirspof-maker/abirschatbot-)](https://github.com/abirspof-maker/abirschatbot-/network)
+[![GitHub stars](https://img.shields.io/github/stars/abirspof-maker/abirschatbot-)](https://github.com/abirspof-maker/abirschatbot-/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/abirspof-maker/abirschatbot-)](https://github.com/abirspof-maker/abirschatbot-/commits)
 _______
 
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
@@ -158,15 +158,15 @@ ___
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
-**Name:** **`SHAHADAT ISLAM`**  
-**Nice Name:** **`SA HU`**  
-**Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
-**Location:** **`KHAGRACHARI, BANGLADESH`**  
+**Name:** **`Abir`**  
+**Nice Name:** **`Abir`**  
+**Profession:** **`DEVELOPER`**  
+**Location:** **`Bangladesh`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[01882 333052](https://wa.me/+8801882333052)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100001039692046)**  
-- **Messenger:** **[Message Me](https://m.me/100001039692046)**  
+- **WhatsApp:** **[#](#)**  
+- **Facebook:** **[#](#)**  
+- **Messenger:** **[#](#)**  
 
 ### 🚀 **DEVELOPMENT APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
@@ -187,7 +187,7 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you! 
 
 <p align="center">
-  <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
+  <a href="#">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://m.me/100001039692046">
@@ -206,18 +206,18 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 ---
 
-💖 **Thank You For Choosing 𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
+💖 **Thank You For Choosing Abir Chat Bot!**  
 🗓️ *Release Date:* `11/08/2025 at 02:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
 ---
 
 <p align="center">
-  <a href="https://github.com/shahadat-sahu"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
-  <a href="https://wa.me/+8801882333052"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
-  <a href="https://facebook.com/100001039692046"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
-  <a href="https://t.me/+7RqN73zA6aBiY2U1"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
-  <a href="https://youtube.com/@scb-community"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
+  <a href="https://github.com/abirspof-maker"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
+  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
 </p>
 
 **I hope you enjoy my fork! Thank you for supporting the cyber chat bot community!**
